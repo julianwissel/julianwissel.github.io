@@ -1,4 +1,4 @@
-### NAVBI Dokumentation
+# NAVBI Dokumentation
 
 
 ## Installation of BC-Connector
