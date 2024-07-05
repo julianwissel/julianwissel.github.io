@@ -42,7 +42,7 @@ To provide access to users:
 * add users or groups by selecting "Certain users and groups" (Bestimmte Benutzer oder Gruppen); check the option "Automatically install this App" (Hiermit wird die App automatisch installiert)
 * click on the Update App Button (App aktualisieren)
 * for the Sales App (VK-App) additionally users need to get access to the Row Level Security Groups of the model. To do so select "Security" (Sicherheit) from the Semantic Model overview (three dots - security)
-* for group all add users that should have access to all data; if certain users should only be able to see data according to their Salesperson assignment, add them to the group User as Salesperson (Document) or User as Salesperson (Customer); click "Save"
+* for group "All" add users that should have access to all data; if certain users should only be able to see data according to their Salesperson assignment, add them to the group User as Salesperson (Document) or User as Salesperson (Customer); click "Save"
 
 ## Change Refresh frequency of App
 If you app should be updated more frequently or at other times, you can change this in the settings of the semantic model.
