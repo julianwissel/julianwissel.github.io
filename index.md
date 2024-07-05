@@ -9,15 +9,17 @@ Your Office 365 user should be allowed to install Apps in Business Central.
 * Please navigate to  [Microsoft AppSource here](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/pubid.navidainformationssysteme1611067488644%7Caid.nbi_bc_pb_connector%7Cpappid.b987d68d-ab70-4b03-9ff2-157a337d8e55?tab=overview "AppSource")
 * Click on "Get it now"
 * Please select your environment (Sandbox/Prod etc.) when prompted. The connector will install in your selected environment.
+  
 ## Installation of Power BI Apps
 ### Get App from AppSource
 The installation of the Power BI Apps can either start from AppSource or from Power BI Apps area. From the Power BI Apps area select "Get Apps" and search for NAVBI. Select the required NAVBI App and click "Get Now". The App will be installed in your Power BI Tenant. 
 
 Click on "Connect with your data" to connect with your data. 
+
 ### Set Parameters to connect with your Business Central
 After clicking "Connect with your data" a window will appear where you can set the following parameters:
 * Environment: name of the environment that should be used in your report
-* Your Company: Name of the company. If multiple companies should be used in your reporting, combine them with | (e.g. Company 1|Company 2). If all companies should be combined in your report, type in "*"
+* Your Company: Name of the company. If multiple companies should be used in your reporting, combine them with "|" If all companies should be combined in your report, type in "*"
 * Posting date year offset: this number is used to reduce the number of years that should be loaded from the past
 * Add the license key for your report that was provided by navida. No license key is required if you are testing in a Sandbox environment
 * Item attributes: List those item attributes that you want to use in your reporting (optional)
