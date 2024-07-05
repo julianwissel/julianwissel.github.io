@@ -19,7 +19,7 @@ Click on "Connect with your data" to connect with your data.
 ### Set Parameters to connect with your Business Central
 After clicking "Connect with your data" a window will appear where you can set the following parameters:
 * Environment: name of the environment that should be used in your report
-* Your Company: Name of the company. If multiple companies should be used in your reporting, combine them with "|" If all companies should be combined in your report, type in "*"
+* Your Company: Name of the company. If multiple companies should be used in your reporting, combine them with \| (e.g. Company 1\|Company 2). If all companies should be combined in your report, type in "*"
 * Posting date year offset: this number is used to reduce the number of years that should be loaded from the past
 * Add the license key for your report that was provided by navida. No license key is required if you are testing in a Sandbox environment
 * Item attributes: List those item attributes that you want to use in your reporting (optional)
