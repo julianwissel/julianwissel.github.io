@@ -51,4 +51,4 @@ If you app should be updated more frequently or at other times, you can change t
 * Expand the section "Refresh" (Aktualisieren"). Change or add times when the model should be refreshed automatically.
 
 ## Manually refresh App
-To update the semantic models of the reports, navigate to the workspace (e.g. NAVBI Verkauf) and click the Refresh now (circle) icon next to the dataset name (Verkauf DS in case of NAVBI Verkauf Workspace). The refresh will happen in the background
+To manually refesh the semantic models of the reports, navigate to the workspace (e.g. NAVBI Verkauf) and click the Refresh now (circle) icon next to the dataset name (Verkauf DS in case of NAVBI Verkauf Workspace). The refresh will happen in the background
